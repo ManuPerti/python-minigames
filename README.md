@@ -19,17 +19,21 @@ Then, you only have to press the **play** button.
 
 ## Minigames instructions
 ### Stopwatch
-You have to stop the chronometer when tenths of second were zero.
+You have to stop the chronometer when tenths of second will be zero.
+
+<img src="./screenshots/stopwatch.jpg" alt="Stopwatch" width="400">
 ### Pong
-Classic game for two players in the same keyboard. Left paddle is controlled with W and S keys, right paddle is controlled with Up and Down keys. The ball increase its speed with each rebound in the paddles. 
+Classic game for two players in the same keyboard. Left paddle is controlled with W and S keys, right paddle is controlled with Up and Down keys. The ball increase its speed with each rebound in the paddles.
+
+<img src="./screenshots/pong.JPG" alt="Pong" width="400">
 ### Blackjack
 Simple version of the popular casino game, where you play against the machine to get 21 points.
+
+<img src="./screenshots/blackjack.JPG" alt="Blackjack" width="400">
 ### Ricerocks
 Modern version of the classic game Asteroids. You can move the spaceship using the key arrows and shoot pressing the Space key. As your score rises, the asteroids will increase their speed.
 
-## Screenshots
-<img src="./screenshots/stopwatch.jpg" alt="Stopwatch" width="300">
-<img src="./screenshots/pong.jpg" alt="Pong" width="300">
-<img src="./screenshots/blackjack.jpg" alt="Blackjack" width="300">
-<img src="./screenshots/ricerocks.jpg" alt="Ricerocks" width="300">
+<img src="./screenshots/ricerocks.JPG" alt="Ricerocks" width="400">
+
+
 
